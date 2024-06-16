@@ -5,7 +5,7 @@ local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'EndHub Phantom',
+    Title = 'EndHub Phantom Forces',
     Center = true,
     AutoShow = true,
     TabPadding = 8,
@@ -178,7 +178,7 @@ do --// Properties & Rest
         TextLabel.Position = UDim2.new(0, 0, 0.0857142881, 0)
         TextLabel.Size = UDim2.new(1, 0, 0.914285719, 0)
         TextLabel.Font = Enum.Font.RobotoMono
-        TextLabel.Text = "homohack | made by @dementia enjoyer"
+        TextLabel.Text = "EndHub | Made By Wilse"
         TextLabel.TextColor3 = Color3.fromRGB(247, 247, 247)
         TextLabel.TextSize = 12.000
         TextLabel.TextWrapped = true
@@ -1363,7 +1363,7 @@ do --// Main
             
         end
     
-        --// Made by @dementia enjoyer 😁
+     
     
     end
     
